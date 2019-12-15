@@ -10,6 +10,10 @@ TagManager:
   - text
   - textl
   - textr
+  - start
+  - can
+  - click
+  - click1
   layers:
   - Default
   - TransparentFX

@@ -17,6 +17,6 @@ public class Click2 : MonoBehaviour
     }
     private void OnMouseDown()
     {
-        Global_vars.ok = 2;
+        GetComponent<AudioSource>().Play();
     }
 }

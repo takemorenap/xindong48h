@@ -67,7 +67,9 @@
     <Compile Include="Assets\Scripts\Click2.cs" />
     <Compile Include="Assets\Scripts\Global_vars.cs" />
     <Compile Include="Assets\Scripts\Simple_move.cs" />
+    <Compile Include="Assets\Scripts\Startt.cs" />
     <Compile Include="Assets\Scripts\Text_event.cs" />
+    <Compile Include="Assets\Scripts\Trigger1.cs" />
     <Compile Include="Assets\Scripts\Wall_.cs" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>C:/Users/llx/Documents/GitHub/xindong48h/xindong48h/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
@@ -90,17 +92,17 @@
     <Reference Include="Unity.Rider.Editor">
       <HintPath>C:/Users/llx/Documents/GitHub/xindong48h/xindong48h/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
     </Reference>
+    <Reference Include="Unity.2D.Sprite.Editor">
+      <HintPath>C:/Users/llx/Documents/GitHub/xindong48h/xindong48h/Library/ScriptAssemblies/Unity.2D.Sprite.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.2D.Tilemap.Editor">
+      <HintPath>C:/Users/llx/Documents/GitHub/xindong48h/xindong48h/Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll</HintPath>
+    </Reference>
     <Reference Include="Unity.TextMeshPro">
       <HintPath>C:/Users/llx/Documents/GitHub/xindong48h/xindong48h/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
       <HintPath>C:/Users/llx/Documents/GitHub/xindong48h/xindong48h/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.2D.Tilemap.Editor">
-      <HintPath>C:/Users/llx/Documents/GitHub/xindong48h/xindong48h/Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.2D.Sprite.Editor">
-      <HintPath>C:/Users/llx/Documents/GitHub/xindong48h/xindong48h/Library/ScriptAssemblies/Unity.2D.Sprite.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.2.12f1/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
